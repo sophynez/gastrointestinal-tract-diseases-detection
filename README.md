@@ -1,1 +1,1 @@
-# gastrointestinal-tract-diseases-detection
+# gastrointestinal tract diseases detection
